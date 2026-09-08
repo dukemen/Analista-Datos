@@ -1,14 +1,16 @@
 # 📊 Analista de Datos — Portafolio de Proyectos
 
-> Proyectos de análisis de datos, automatización y ciencia de datos desarrollados con Python, SQL y herramientas de BI.
+> Proyectos de análisis de datos, automatización, ingeniería de IA y DevOps desarrollados con Python, SQL y herramientas modernas de datos.
 
 ---
 
 ## 👤 Sobre mí
 
-Ingeniero de Sistemas con experiencia en infraestructura TI y análisis de datos. Actualmente en transición hacia roles de **Analista de Datos / Analytics Engineer**, combinando mi background técnico en redes, cloud (Azure/AWS) y bases de datos con habilidades en Python, SQL y visualización de datos.
+Ingeniero de Sistemas con experiencia en infraestructura TI y análisis de datos. Actualmente en transición hacia roles de **Analista de Datos / Analytics Engineer**, combinando mi background técnico en redes, cloud (AWS/Hetzner VPS) y bases de datos con habilidades en Python, SQL, visualización de datos e Ingeniería de Sistemas de IA.
 
-📍 Colombia | 🌐 [LinkedIn](https://www.linkedin.com/in/dkcontreras/) | 📧 analistadatosjunior@gmail.com
+Fundador de **IA SIN FRONTERAS / PidiendoIA** — agencia B2B de sistemas de IA para empresas en Colombia y LATAM.
+
+📍 Colombia | 📧 analistadatosjunior@gmail.com | 🌐 [pidiendoia.com](https://pidiendoia.com) | 🐙 [@dukemen](https://github.com/dukemen)
 
 ---
 
@@ -32,6 +34,15 @@ Analista-Datos/
 
 ## 🚀 Proyectos Destacados
 
+### 🤖 PidiendoIA — Sistema de IA en Producción
+Sistema completo de ingeniería de IA construido desde cero: backend con FastAPI + OpenAI API, frontend en Next.js, sitio público en Astro, desplegado en VPS con CI/CD automatizado.
+
+**Repositorio:** [iasinfronteras](https://github.com/iasinfronteras)  
+**Tecnologías:** Python · FastAPI · OpenAI API · Next.js · TypeScript · Astro · Docker · Nginx · GitHub Actions · Tailscale · Cloudflare  
+**Habilidades:** Ingeniería de sistemas de IA · Context Engineering · Structured Output · APIs REST · CI/CD · DevOps · infraestructura en producción
+
+---
+
 ### 🔍 Sistema de Consultas Automatizadas — `automatizacion_bd_infobip/`
 Automatización de consultas a centrales de riesgo con almacenamiento en base de datos SQLite/PostgreSQL.
 
@@ -52,30 +63,65 @@ Scripts reutilizables para tareas frecuentes en análisis de datos: conversión 
 Ejercicios y proyectos de aprendizaje estructurado de Python aplicado a ciencia de datos.
 
 **Tecnologías:** Python · pandas · numpy  
-**Habilidades:** docker · análisis exploratorio · estructuras de datos
+**Habilidades:** programación · análisis exploratorio · estructuras de datos
 
 ---
 
 ## 🧰 Stack Tecnológico
 
+### Análisis de Datos
 | Categoría | Herramientas |
 |-----------|-------------|
 | **Lenguajes** | Python · SQL |
-| **Análisis** | pandas · numpy · matplotlib |
+| **Análisis** | pandas · numpy · matplotlib · openpyxl |
 | **Bases de datos** | PostgreSQL · SQLite · SQL Server |
-| **BI / Visualización** | Power BI · Excel |
-| **Cloud** | Azure · AWS |
-| **Control de versiones** | Git · GitHub |
-| **Otros** | Docker · Linux · APIs REST |
+| **BI / Visualización** | Power BI · Excel · DAX |
+| **ETL** | Python scripts · Power Query |
+
+### Ingeniería de IA
+| Categoría | Herramientas |
+|-----------|-------------|
+| **LLM APIs** | OpenAI Responses API · Anthropic Claude |
+| **Backend IA** | FastAPI · Pydantic · uv |
+| **Patrones** | Context Engineering · Structured Output · Tool Calling · Prompt Engineering |
+| **Testing** | pytest (37 tests en producción) |
+
+### Frontend & Web
+| Categoría | Herramientas |
+|-----------|-------------|
+| **Frameworks** | Next.js 16 · Astro 7.x · React 19 |
+| **Lenguajes** | TypeScript strict · HTML · CSS (BEM) |
+| **Estilos** | Tailwind 4.x · diseño responsivo mobile-first |
+
+### DevOps & Infraestructura
+| Categoría | Herramientas |
+|-----------|-------------|
+| **Cloud** | AWS · Hetzner VPS |
+| **Contenedores** | Docker · Docker Compose |
+| **CI/CD** | GitHub Actions · Tailscale Ephemeral Nodes · GitHub OIDC |
+| **Redes** | Nginx · Certbot (TLS/SSL) · Cloudflare DNS/CDN |
+| **Acceso remoto** | SSH · Tailscale VPN · Linux |
+| **Control de versiones** | Git · GitHub · commits convencionales |
 
 ---
 
 ## 📈 En Progreso
 
+- [ ] Programa de Ingeniería de Sistemas de IA — 20 semanas (S05 Tool Calling en curso)
 - [ ] Dashboard interactivo con Power BI
-- [ ] Proyecto de análisis completo con dataset real
-- [ ] Pipelines de datos con Python + SQL
-- [ ] Certificación en análisis de datos
+- [ ] Pipeline de datos completo con Python + SQL + Power BI
+- [ ] Agentes autónomos con memoria persistente y loops de ejecución
+
+---
+
+## 🏆 Diferencial
+
+A diferencia de un analista de datos convencional, combino:
+
+- **Infraestructura real en producción** — sistemas desplegados, no solo notebooks
+- **Ingeniería de IA aplicada** — sistemas de agentes, no solo uso de ChatGPT
+- **Background en TI** — redes, servidores, cloud, bases de datos, soporte multi-sitio
+- **Mentalidad de producto** — construyo sistemas completos, no scripts aislados
 
 ---
 
@@ -84,8 +130,9 @@ Ejercicios y proyectos de aprendizaje estructurado de Python aplicado a ciencia 
 ¿Tienes un proyecto o una oportunidad? Hablemos.
 
 - **Email:** analistadatosjunior@gmail.com
-- **GitHub:** [@dukemen](https://github.com/dukemen)
+- **GitHub personal:** [@dukemen](https://github.com/dukemen)
 - **Organización:** [IA SIN FRONTERAS](https://github.com/iasinfronteras)
+- **Web:** [pidiendoia.com](https://pidiendoia.com)
 
 ---
 
